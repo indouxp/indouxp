@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 36年程の**プログラマ／インフラエンジニア**としての経験を持ちます。
-ここ10年程は、Oracle Database（RAC）構築・維持保守、Unix/Linux サーバー構築を軸に、Python・Shell・PowerShell によるスクリプト開発を手がけてきました。
+最近の10～20年程は、Oracle Database（RAC）構築・維持保守、Unix/Linux サーバー構築を軸に、Python・Shell・PowerShell によるスクリプト開発を手がけてきました。
 近年はクラウド（AWS）へのシフトを進めています。
 
 ---
