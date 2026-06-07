@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 36年ほど、金融系システムのインフラ構築からスクリプト開発まで、「作る、安定させる」エンジニアとして歩んできました。
-Oracle RAC・Unix/Linuxの知見と、Python・Shell・PowerShellによる自動化・運用改善の実装を併せ行います。
+Oracle RAC・Unix/Linuxの構築と、Python・Shell・PowerShellによる自動化・運用改善の実装を併せ行います。
 現在はAWSクラウドへのシフトを進めています。
 
 ---
