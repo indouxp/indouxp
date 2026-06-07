@@ -1,4 +1,4 @@
-# Tatsuo Indo (印東 辰男)
+# Tatsuo Indo
 
 ## 👨‍💻 About Me
 
