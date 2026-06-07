@@ -64,8 +64,8 @@
 | 2016 - 2018 | 共済システム：Oracle RAC 11g 構築（Windows Server 2012 / VMware） |
 | 2014 - 2016 | 共済システム：LDAP 個人データ反映（PowerShell / Bash） |
 | 2012 - 2013 | 生保システム：Oracle DB 10g/11g 維持保守（Solaris 10/11） |
-| 2001 - 2011 | 金融（生保・共済・損保・証券）：Oracle 環境構築・維持保守、ジョブ管理開発（HP-UX / Solaris / Windows Server） |
-| 1994 - 2001 | 統合会計システム（Ttimes）開発・保守（HP-UX / Oracle Forms / Pro*C / Shell） |
+| 2001 - 2011 | 金融（生保・共済・損保・証券）：Oracle 8,8i,9i 環境構築・維持保守、ジョブ管理開発（HP-UX / Solaris / Windows Server） |
+| 1994 - 2001 | 会計システム開発・保守（HP-UX / Oracle Forms / Pro*C / Shell） |
 | 1988 - 1994 | 金融系（住宅ローン・カードローン）システム開発（MVS / DOS/VSE / COBOL） |
 
 ---
