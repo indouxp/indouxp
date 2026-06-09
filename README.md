@@ -59,7 +59,7 @@ Oracle RAC・Unix/Linuxの構築と、Python・Shell・PowerShellによる自動
 
 | 期間 | 内容 |
 |------|------|
-| 2022 - 2024 | 共済システム：Oracle RAC 19c 構築（RHEL 8.6 / VMware）、AWS S3 環境構築、Python/Bash によるメール配信システム開発 |
+| 2021 - 2024 | 共済システム：Oracle RAC 19c 構築（RHEL 8.6 / VMware）、AWS S3 環境構築、Python/Bash によるメール配信システム開発 |
 | 2019 - 2020 | 共済システム：Oracle RAC 18c 構築（Windows Server 2016 / VMware） |
 | 2016 - 2018 | 共済システム：Oracle RAC 11g 構築（Windows Server 2012 / VMware） |
 | 2014 - 2016 | 共済システム：LDAP 個人データ反映（PowerShell / Bash） |
