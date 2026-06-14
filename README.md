@@ -65,7 +65,7 @@ Oracle RAC・Unix/Linuxの構築と、Python・Shell・PowerShellによる自動
 | 2014 - 2016 | 金融・共済 ：PG支援 LDAP 個人データ反映（PowerShell / Bash） |
 | 2012 - 2013 | 金融・生保 ：団体保険 Oracle DB 10g/11g 維持保守（Solaris 10/11） |
 | 2001 - 2011 | 金融（生保・損保・証券）：Oracle 8,8i,9i 構築・維持保守、ジョブ開発（HP-UX / Solaris / Windows Server） |
-| 1994 - 2001 | 流通小売・会計 ：開発・保守（HP-UX / Oracle Forms / Pro*C / Shell） |
+| 1994 - 2001 | 流通小売・：統合会計システム(給与) 開発・保守（HP-UX / Oracle Forms / Pro*C / Shell） |
 | 1988 - 1994 | 金融（信販（クレジット）・消費者金融）システム開発（MVS / DOS/VSE / COBOL） |
 
 ---
