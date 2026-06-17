@@ -61,7 +61,7 @@ Oracle RAC・Unix/Linuxの構築と、Python・Shell・PowerShellによる自動
 |------|------|
 | 2021 - 2024 | 金融・共済 ：査定エンジン、メール配信 Oracle RAC 19c 構築（RHEL 8.6 / VMware）、AWS S3 環境構築、Python/Bash によるメール配信システム開発 |
 | 2019 - 2020 | 金融・共済 ：開発フレームワーク Oracle RAC 18c 構築（Windows Server 2016 / VMware） |
-| 2016 - 2018 | 金融・共済 ：開発フレームワーク Oracle RAC 11g 構築（Windows Server 2012 / VMware） |
+| 2016 - 2018 | 金融・共済 ：PG支援 Oracle RAC 11g 構築（Windows Server 2012 / VMware） |
 | 2014 - 2016 | 金融・共済 ：PG支援 LDAP 個人データ反映（PowerShell / Bash） |
 | 2012 - 2013 | 金融・生保 ：団体保険 Oracle DB 10g/11g 維持保守（Solaris 10/11） |
 | 2001 - 2011 | 金融（生保・損保・証券）：Oracle 8,8i,9i 構築・維持保守、ジョブ開発（HP-UX / Solaris / Windows Server） |
