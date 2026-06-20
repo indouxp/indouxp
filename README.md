@@ -8,29 +8,10 @@ Oracle RAC・Unix/Linuxの構築と、Python・Shell・PowerShellによる自動
 
 ---
 
-## 🛠️ Skills
-
-| カテゴリ | 技術・製品 |
-|---------|-----------|
-| **OS** | Linux (RHEL,Debian), Solaris, HP-UX, Windows Server |
-| **DB** | Oracle (19c, 18c, 11g, 10g, 8i, 8) / Oracle RAC |
-| **言語** | Python, Shell (bash,csh), PL/SQL, Perl, PowerShell, Pro*C, COBOL, VBScript, JScript, Ruby, VBA |
-| **クラウド** | AWS (S3, Lambda, EC2) |
-| **インフラ** | Oracle Database 設計・構築, Unix/Linux サーバー構築|
-| **仮想化** | VMware ESXi |
-| **その他** | Raspberry Pi, Ansible (inventory管理) |
-
----
-
-## 🏆 Certifications
-
-- **AWS Certified Cloud Practitioner** (2026/02)
-
----
-
 ## 📂 Portfolio
 
 ### [run_on_ec2_public](https://github.com/indouxp/run_on_ec2_public)
+
 > S3イベント連携によるEC2自動処理システム
 
 - S3へのファイルアップロードを契機に Lambda が EC2 を動的起動し、バッチ処理を自動実行するイベント駆動型システム
@@ -43,6 +24,7 @@ Oracle RAC・Unix/Linuxの構築と、Python・Shell・PowerShellによる自動
 ---
 
 ### [security_monitor_2_public](https://github.com/indouxp/security_monitor_2_public)
+
 > 自宅LAN向け マルチカメラ セキュリティモニターシステム
 
 - AtomCam 3台の RTSP ストリームを WebRTC (WHEP) でブラウザに集約表示（2×2グリッド）
@@ -52,6 +34,26 @@ Oracle RAC・Unix/Linuxの構築と、Python・Shell・PowerShellによる自動
 - 単体テスト（Shell/Python/PowerShell）・結合テスト（Playwright）を実装
 
 **技術スタック：** Python / Shell (bash) / JavaScript / PowerShell / MediaMTX / WebRTC / nginx / Raspberry Pi OS
+
+---
+
+## 🏆 Certifications
+
+- **AWS Certified Cloud Practitioner** (2026/02)
+
+---
+
+## 🛠️ Skills
+
+| カテゴリ | 技術・製品 |
+|---------|-----------|
+| **OS** | Linux (RHEL,Debian), Solaris, HP-UX, Windows Server |
+| **DB** | Oracle (19c, 18c, 11g, 10g, 8i, 8) / Oracle RAC |
+| **言語** | Python, Shell (bash,csh), PL/SQL, Perl, PowerShell, Pro*C, COBOL, VBScript, JScript, Ruby, VBA |
+| **クラウド** | AWS (S3, Lambda, EC2) |
+| **インフラ** | Oracle Database 設計・構築, Unix/Linux サーバー構築|
+| **仮想化** | VMware ESXi |
+| **その他** | Raspberry Pi, Ansible (inventory管理) |
 
 ---
 
