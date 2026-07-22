@@ -4,7 +4,7 @@
 
 長く金融系システム中心のインフラ構築からスクリプト開発まで、「作る、安定させる」エンジニアとして歩んできました。
 Oracle RAC・Unix/Linuxの構築と、Python・Shell・PowerShellによる自動化・運用改善の実装を併せ行います。
-現在はAWSクラウドへのシフトを進めています。<br>
+現在はAWSクラウドへのシフトを考えています。<br>
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/28b2e916-ea74-494f-83b4-eca8d3d1b612/public_url)
 ---
 
