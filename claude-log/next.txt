@@ -1,0 +1,1 @@
+claude --resume f88a38e1-dca8-482d-b056-c7b8d7583b1c  # 2026-10-27 12:02:10 AWSバッジ縮小
