@@ -8,6 +8,17 @@
 
 ## 📂 Portfolio
 
+### [run_on_ec2_terra_public](https://github.com/indouxp/run_on_ec2_terra_public)
+
+> S3イベント連携によるEC2自動処理システム (run_on_ec2のaws cliによるIac部を、terraformを使用しています。)
+
+- S3へのファイルアップロードを契機に Lambda が EC2 を動的起動し、バッチ処理を自動実行するイベント駆動型システム
+- 処理完了後は EC2 を自動削除し、SNS/SES でメール・SMS 通知
+- インフラ構築をTerraformでコード化（IaC）
+- 要件定義書・基本設計書・セキュリティ設定書・運用手順書など設計ドキュメント一式を整備
+
+**技術スタック：** AWS (S3, Lambda, EC2, SNS, SES, EventBridge, IAM, VPC) / Python / Shell (bash) / Terraform
+
 ### [run_on_ec2_public](https://github.com/indouxp/run_on_ec2_public)
 
 > S3イベント連携によるEC2自動処理システム
